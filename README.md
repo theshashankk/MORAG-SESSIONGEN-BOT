@@ -9,5 +9,5 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/r0ld3x/MORAG-SESSIONGEN-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # MORAG-SESSIONGEN-BOT
