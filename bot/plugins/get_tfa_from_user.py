@@ -61,8 +61,5 @@ async def recv_tg_tfa_message(_, message: Message):
         await saved_message_.reply_text(
             SESSION_GENERATED_USING,
             quote=True
-            session = client.session.save()
-           f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` ",
-
         )
     raise message.stop_propagation()
