@@ -33,7 +33,7 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            "SessionMakerBot",
+            "Pyrogram string bot",
             api_hash=API_HASH,
             api_id=APP_ID,
             bot_token=TG_BOT_TOKEN,
