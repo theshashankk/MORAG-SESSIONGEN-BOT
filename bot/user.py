@@ -28,7 +28,7 @@ from bot import (
 
 
 class User(Client):
-    """ modded client for SessionMakerUser """
+    """ modded client for Team CoffinX """
 
     def __init__(self):
         super().__init__(
