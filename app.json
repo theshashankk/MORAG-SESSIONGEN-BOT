@@ -8,8 +8,8 @@
         "modular",
         "productivity"
     ],
-    "repository": "https://github.com/r0ld3x/MORAG-SESSIONGEN-Bot",
-    "website": "https://telegram.dog/MORAGLINKS",
+    "repository": "https://github.com/theshashankk/MORAG-SESSIONGEN-BOT",
+    "website": "https://github.com/theshashankk/MORAG-SESSIONGEN-BOT",
     "success_url": "/",
     "env": {
         "APP_ID": {
