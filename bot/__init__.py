@@ -44,7 +44,7 @@ COMMM_AND_PRE_FIX = get_config("COMMM_AND_PRE_FIX", "/")
 # start command
 START_COMMAND = get_config("START_COMMAND", "start")
 # path to store LOG files
-LOG_FILE_ZZGEVC = get_config("LOG_FILE_ZZGEVC", "SessionMakerBot.log")
+LOG_FILE_ZZGEVC = get_config("LOG_FILE_ZZGEVC", "Pyrogramstring.log")
 
 
 logging.basicConfig(
@@ -84,7 +84,7 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hey. ️\n"
         "Thank you for using me \n\n"
-        "Please check out @MORAGLINKS "
+        "Please check out @CoffinXsupport "
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
@@ -124,7 +124,7 @@ PHONE_CODE_IN_VALID_ERR_TEXT = get_config(
 )
 TFA_CODE_IN_VALID_ERR_TEXT = get_config(
     "TFA_CODE_IN_VALID_ERR_TEXT",
-    "Invalid Two Factor Code Received. Please re /start"
+    "Invalid Two Factor Code Received.😑 Please re /start"
 )
 ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "The entered Telegram Number is protected with 2FA. "
@@ -132,5 +132,5 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me \n\n"
-    " String Session successfully generated "
+    " Pyro String Session successfully generated 🔰\n Checkout @CoffinXsupport "
 ))
