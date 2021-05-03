@@ -29,7 +29,7 @@ from bot import (
 
 
 class Bot(Client):
-    """ modded client for SessionMakerBot """
+    """ modded client for Team CoffinX """
 
     def __init__(self):
         super().__init__(
@@ -55,4 +55,4 @@ class Bot(Client):
 
     async def stop(self, *args):
         await super().stop()
-        self.LOGGER(__name__).info("SessionMakerBot stopped. Bye.")
+        self.LOGGER(__name__).info("Pyrogram string bot stopped. Bye👋")
